@@ -1,0 +1,17 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1, h3 {
+    color: black;
+    background-color: aquamarine;
+}
+
+ul {
+    color: darkblue;
+    background-color: lightcyan;
+}
+
+ol {
+    color: darkcyan;
+}
